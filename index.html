@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> ROSHAMBO GAME </title>
+    <link rel="stylesheet" href="style/style.css">
+</head>
+<body>
+    
+
+     <h4 class="game-title"> ROSHAMBO GAME </h4>
+
+    <div class="buttons">
+        <button class="move-button js-rock-button" onclick="">
+                <img class="move-icon" src="Images/rock.jpg" >
+            <!-- Rocks -->
+             
+        </button>
+    
+
+        <button class="move-button js-paper-button" onclick="">
+            <img class="move-icon move-paper-icon" src="Images/paper1.jpg">
+            <!-- Papers -->
+        </button>
+    
+
+        <button class="move-button js-scissor-button" onclick="
+            // playGame('Scissor');
+
+            // const computerMove = pickComputerMove();
+
+            //  let result = '';
+            //  if (computerMove === 'rock'){
+            //     result = 'You Lose';
+            //  } else if(computerMove === 'Paper') {
+            //     result = 'Tie';
+            //  } else if(computerMove === 'Scissor'){
+            //     result = 'You Won';
+            //  }
+             
+            //  console.log(result);
+            //  alert(`You picked Scissor. Computer picked ${computerMove}. ${result}`);
+        ">
+            <img class="move-icon" src="Images/scissor.jpg">
+            <!-- Scissor -->
+        </button>
+
+        
+        <div>
+            <p class="js-result result cs-background-result"> </p>
+            
+            <p class="js-moves cs-background-result">   
+                <!-- 
+                You 
+                <img class="move-icon" src="images/cati-mage1.webp" alt=""> 
+
+                <img class="move-icon" src="images/cat-image2.avif" alt="">
+                Computer
+                 -->
+            </p>
+            
+            <p class="js-score cs-score cs-background-result"> </p>
+        </div>
+
+        <button class="cs-reset-score-button js-auto-play js-reset-button" 
+            //onclick="
+             //score.wins = 0;
+             //score.losses = 0;
+             //score.ties = 0;
+             //localStorage.removeItem('score');
+             //updateScoreElement();" 
+             >
+             Reset Score
+        </button>
+
+        <button class="cs-auto-play-button  js-auto-play-button  js-toggleButton" 
+          
+        >
+            Auto Play
+        </button>
+    </div>
+    
+
+    <script src="script/script.js"></script>
+</body>
+</html>

@@ -1,0 +1,64 @@
+body {
+    background-color: rgb(146, 23, 23);
+    font-family: Arial;
+    display: grid;
+    justify-items: center;
+    justify-self: center;
+    justify-content: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.game-title {
+    font-size: 30px;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+    
+}
+
+
+.move-button {
+    background-color: transparent;
+    border: 3px dashed white;
+    width: 120px;
+    height: 120px;
+    border-radius: 60px;
+    margin-right: 10px;
+    cursor: pointer;
+}
+
+.move-icon {
+    height: 50px;
+}
+
+
+
+.result {
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+    margin-top: 50px;
+}
+
+.cs-score {
+    margin-top: 60px;
+}
+
+.cs-background-result {
+    color: white;
+
+}
+
+.cs-reset-score-button,
+.cs-auto-play-button {
+    background-color: white;
+    border: none;
+    font-size: 15px;
+    padding: 8px 15px;
+    cursor: pointer;
+    font-weight: bold;
+
+}
+
+
+
