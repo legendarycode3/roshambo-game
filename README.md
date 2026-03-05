@@ -8,3 +8,4 @@ with their hands—rock (fist), paper (flat hand), or scissors (v-shape)—after
 
 **Rules and Mechanics** </br>
 1. Winning Conditions: Rock crushes scissors, scissors cuts paper, and paper covers rock. </br>
+2. Gameplay: If both players show the same sign, it is a tie and the round is replayed. </br>
