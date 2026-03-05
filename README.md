@@ -6,4 +6,5 @@ for decision-making or competition. Players simultaneously form one of three sha
 with their hands—rock (fist), paper (flat hand), or scissors (v-shape)—after counting "1, 2, 3, shoot" or "Roshambo".
 
 
-**Rules and Mechanics**
+**Rules and Mechanics** </br>
+1. Winning Conditions: Rock crushes scissors, scissors cuts paper, and paper covers rock. </br>
