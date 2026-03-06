@@ -13,4 +13,5 @@ with their hands—rock (fist), paper (flat hand), or scissors (v-shape)—after
 4. Hand Signals:  Signals are generally delivered on the final word, often with a shaking motion during the count. </br>
 
 
-**Winning Conditions:**
+**Winning Conditions:**  </br>
+1. Rock crushes Scissors.
