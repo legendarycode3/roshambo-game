@@ -11,3 +11,6 @@ with their hands—rock (fist), paper (flat hand), or scissors (v-shape)—after
 2. Gameplay: If both players show the same sign, it is a tie and the round is replayed. </br>
 3. Best of Three: The first player to win two rounds typically wins the game. </br>
 4. Hand Signals:  Signals are generally delivered on the final word, often with a shaking motion during the count. </br>
+
+
+**Winning Conditions:**
