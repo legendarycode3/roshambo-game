@@ -20,5 +20,6 @@ with their hands—rock (fist), paper (flat hand), or scissors (v-shape)—after
 4. If both players show the same sign, it is a tie and they play again. </br>
 
 
-**Summary**
+**Summary** </br>
 Today, Roshambo is simply a nickname for Rock Paper Scissors, especially popular on the West Coast.
+Rock Paper Scissors began in China, spread to Japan, 
