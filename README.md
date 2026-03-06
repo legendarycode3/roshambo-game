@@ -18,3 +18,6 @@ with their hands—rock (fist), paper (flat hand), or scissors (v-shape)—after
 2. Scissors cuts Paper. </br>
 3. Paper covers Rock. </br>
 4. If both players show the same sign, it is a tie and they play again. </br>
+
+
+**Summary**
