@@ -14,4 +14,5 @@ with their hands—rock (fist), paper (flat hand), or scissors (v-shape)—after
 
 
 **Winning Conditions:**  </br>
-1. Rock crushes Scissors.
+1. Rock crushes Scissors. </br>
+2. Scissors cuts Paper. </br>
