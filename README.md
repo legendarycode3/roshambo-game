@@ -21,3 +21,4 @@ with their hands—rock (fist), paper (flat hand), or scissors (v-shape)—after
 
 
 **Summary**
+Today, Roshambo is simply a nickname for Rock Paper Scissors, especially popular on the West Coast.
