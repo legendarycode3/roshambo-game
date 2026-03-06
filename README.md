@@ -22,4 +22,4 @@ with their hands—rock (fist), paper (flat hand), or scissors (v-shape)—after
 
 **Summary** </br>
 Today, Roshambo is simply a nickname for Rock Paper Scissors, especially popular on the West Coast.
-Rock Paper Scissors began in China, spread to Japan, 
+Rock Paper Scissors began in China, spread to Japan, roshambo was first recorded in 1936 in Oakland, California. </br>
